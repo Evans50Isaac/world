@@ -1,0 +1,72 @@
+body{
+    background-image: url('img/horses-4381694__340.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: green;
+    font-size: 50px;
+    font-family: monospace;
+    padding-left: 40px;
+
+}
+
+ul{
+    float: right;
+}
+
+
+nav{
+    text-decoration: none;
+}
+
+header{
+    padding: 30px;
+}
+
+
+
+li{
+    display: inline;
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 20px;
+    padding-top: 10px;
+    
+}
+
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+
+
+
+
+
+
+.main{
+    text-align: center;
+    display: block;
+    padding-top: 50px;
+    
+}
+
+h2{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+
+.main p{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: pink;
+    margin-top: 10px;
+
+}
+
